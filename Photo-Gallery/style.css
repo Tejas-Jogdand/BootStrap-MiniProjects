@@ -1,0 +1,16 @@
+header{
+    height: 40vh;
+    background: url(https://images.pexels.com/photos/572897/pexels-photo-572897.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2) no-repeat center center/cover;
+}
+
+.welcomesection{
+    background-color:cyan;
+}
+
+.Collectionsection{
+    background-color: bisque;
+}
+
+.pricing{
+    background-color: coral;
+}
