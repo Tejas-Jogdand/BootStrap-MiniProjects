@@ -11,6 +11,12 @@ header{
     background-color: bisque;
 }
 
+.PosterRatesSection{
+    background-color: cornflowerblue;
+}
+.AboutMeSection{
+  background-color: pink;
+}
 .pricing{
     background-color: coral;
 }
