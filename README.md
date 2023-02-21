@@ -1,2 +1,2 @@
 # BootStrap-MiniProjects
-this is read me
+Here I'll push my Bootstrap oriented mini projects.
